@@ -1,0 +1,42 @@
+.ariaRadioGroup:global(.__wab_instance) {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+  row-gap: var(--token-a1svZgO8T-KP);
+}
+.ariaRadioGroup[data-disabled]:global(.__wab_instance) {
+  opacity: 0.5;
+}
+.freeBox__vukA6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.freeBox__vukA6 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  margin-top: calc(0px - var(--token-a1svZgO8T-KP));
+  height: calc(100% + var(--token-a1svZgO8T-KP));
+}
+.freeBox__vukA6 > :global(.__wab_flex-container) > *,
+.freeBox__vukA6 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__vukA6 > :global(.__wab_flex-container) > picture > img,
+.freeBox__vukA6
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: var(--token-a1svZgO8T-KP);
+}
+.radio__vr8Pr:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
+.radio__u2Vfd:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
+.radio__popx0:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
+.description:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
